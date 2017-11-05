@@ -28,14 +28,15 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - [Prioritisation - Work on the most important thing first](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
 - [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 - [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
-- [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
+- [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
+- Release often - [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
+- Listen to customers
 - [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
 
 ## Agile to Lean
 
 - [Continuous Improvement](https://en.wikipedia.org/wiki/Kaizen) - An “improvement,” or “change for the better” which refers to a philosophy or practices that focus on continuous improvement of processes in manufacturing, engineering, game development, and business management.
 - [Reduce waste](https://itrevolution.com/japanese-words-for-devops-practitioners/)
-- [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - Until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
 - [No silos](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/) - Cross-functional teams and T-shaped people, an attitude of shared responsibility is an aspect of DevOps culture that encourages closer [collaboration](https://blog.chef.io/2017/03/01/devops-is-all-about-collaboration/).
 - [Key Performance Indicators](https://www.atlassian.com/devops#measurement) - Management thinker Peter Drucker is often quoted as saying that "you can't improve what you can't measure".
 - [Non-Functional Requirements as user stories](https://legacy.devopsdays.org/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf)

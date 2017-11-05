@@ -32,6 +32,8 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - Release often - [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
 - Listen to customers -  Close the loop, focus on building a great product that people want to use
 - [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
+- [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) - Follow the rule, break the rule, be the rule.
+- [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
 
 ## Agile to Lean
 

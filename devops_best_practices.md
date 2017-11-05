@@ -30,7 +30,7 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 - [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
 - Release often - [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
-- Listen to customers
+- Listen to customers -  Close the loop, focus on building a great product that people want to use
 - [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
 
 ## Agile to Lean

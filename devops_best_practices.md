@@ -50,7 +50,6 @@ Though not necessarily accurate, I've broken them down into their evolutionary s
 - [People over process](https://jezhumble.net/2007/09/11/line-management.html)
 - [Test at the appropriate level](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
 - [High trust culture](https://www.slideshare.net/jezhumble/lean-enterprise-42651898)
-- [Blameless Postmortems](http://codeascraft.com/2012/05/22/blameless-postmortems/)
 
 ## Lean to Continuous Integration
 

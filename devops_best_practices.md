@@ -12,7 +12,7 @@ Let's explore those...
 
 <!--more-->
 
-_Note: Though not necessarily accurate, the practices are broken down into their evolutionary stages to make fit easier to digest..._
+_Note: Though not necessarily accurate, the practices are broken down into their evolutionary stages to make it easier to digest..._
 
 ## Waterfall to Agile
 

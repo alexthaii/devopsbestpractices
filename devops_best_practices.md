@@ -34,6 +34,7 @@ _Note: Though not necessarily accurate, the practices are broken down into their
 - [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
 - [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) - Follow the rule, break the rule, be the rule.
 - [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
+- [Embrace failure](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
 
 ## Agile to Lean
 

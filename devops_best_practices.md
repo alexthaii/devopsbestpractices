@@ -30,7 +30,7 @@ _Note: Though not necessarily accurate, the practices are broken down into their
 - [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 - [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
 - Release often - [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
-- Listen to customers -  Close the loop, focus on building a great product that people want to use
+- Listen to customers - Close the loop, focus on building a great product that people want to use
 - [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
 - [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) - Follow the rule, break the rule, be the rule.
 - [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
@@ -50,7 +50,7 @@ _Note: Though not necessarily accurate, the practices are broken down into their
 - [Lean startup](http://ecorner.stanford.edu/videos/2329/Evangelizing-for-the-Lean-Startup-Entire-Talk)
 - [People over process](https://jezhumble.net/2007/09/11/line-management.html)
 - [Test at the appropriate level](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
-- [High trust culture](https://www.slideshare.net/jezhumble/lean-enterprise-42651898)
+- [High trust culture](https://gotocon.com/dl/goto-cph-sept-2014/slides/JezHumble_LeanEnterprisePartII.pdf)
 
 ## Lean to Continuous Integration
 

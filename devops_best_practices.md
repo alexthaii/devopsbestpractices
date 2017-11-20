@@ -98,3 +98,4 @@ _Note: Though not necessarily accurate, the practices are broken down into their
 - [Big data](http://blog.syncsort.com/2017/04/big-data/big-data-and-devops/)
 - [Platform as a service](https://blogs.msdn.microsoft.com/brunoterkaly/2014/04/17/the-devops-story-why-it-is-really-about-platform-as-a-service/)
 - [Cloud](https://www.infoq.com/articles/cloud-and-devops)
+- [Design for failure](https://martinfowler.com/articles/microservices.html#DesignForFailure)

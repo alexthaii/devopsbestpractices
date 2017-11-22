@@ -35,6 +35,7 @@ _Note: Though not necessarily accurate, the practices are broken down into their
 - [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) - Follow the rule, break the rule, be the rule.
 - [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
 - [Embrace failure](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
+- [Apply Conway's law](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
 
 ## Agile to Lean
 

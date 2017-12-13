@@ -52,6 +52,7 @@ _Note: Though not necessarily accurate, the practices are broken down into their
 - [People over process](https://jezhumble.net/2007/09/11/line-management.html)
 - [Test at the appropriate level](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
 - [High trust culture](https://gotocon.com/dl/goto-cph-sept-2014/slides/JezHumble_LeanEnterprisePartII.pdf)
+- [Address Technical Debt](https://18f.gsa.gov/2015/09/04/what-is-technical-debt/)
 
 ## Lean to Continuous Integration
 

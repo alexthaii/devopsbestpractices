@@ -60,6 +60,7 @@ _Note: Though not necessarily accurate, the practices are broken down into their
 - [Achieving 10 deployments per day](https://www.youtube.com/watch?v=LdOe18KhtT4) - the story of how Flickr adopted DevOps.
 - [Continuous Integration](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html) - When the build fails, it’s usually back to green within ten minutes.
 - [Quality Built In](https://www.slideshare.net/AndrewDzynia/quality-built-in/) - Build quality in, from start to end. Quality is not something you tack on the end.
+- [Zero Bugs](http://schd.ws/hosted_files/aatc2017/c9/Zero%20Bugs.pdf)
 - [Don't fire the QA](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really) - Are we building the correct product? If so, are we building it correctly?
 - [Automation](https://dzone.com/articles/what-is-devops-and-how-automation-helps-achieve-it)
 - [Test Automation](https://www.atlassian.com/blog/devops/test-automation-secret-devops-success)
